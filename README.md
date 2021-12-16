@@ -27,6 +27,11 @@ Before we start, make sure you fit the prerequisites
 - Twitter: [Twitter](https://twitter.com/tiredashell0)
 * LinkedIn: [LinkedIn](https://www.linkedin.com/in/ahmed-adel56/)
 
+👤 **Alex Castillo**
+- GitHub: [Alex](https://github.com/Wikitelmex)
+- Twitter: [@Alex](https://twitter.com/Alejand84515448)
+- LinkedIn: [Alex Castillo](https://www.linkedin.com/in/alejandro-castillo-6849131a9/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
