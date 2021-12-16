@@ -1,5 +1,6 @@
-# morse-code-ruby
-This program is written to encrypt and decrypt messages using the Morse algorithm
+# Create your own Enumerable
+
+In this program we are running some operations to test our knowledge about ruby modeling
 
 ## Written With
 - Ruby
@@ -8,7 +9,7 @@ This program is written to encrypt and decrypt messages using the Morse algorith
 Before we start, make sure you fit the prerequisites
 
 ### Setup
-- git clone https://github.com/Wikitelmex/morse-code-ruby.git
+- git clone https://github.com/ahmedadel56/Enumerable.git
   
 ### Install
 - `bundle install`
