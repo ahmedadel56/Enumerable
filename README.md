@@ -15,7 +15,7 @@ Before we start, make sure you fit the prerequisites
 - `bundle install`
 
 ### Usage
-- `irb main.rb` from Terminal
+- `ruby main.rb` from Terminal
 
 ### Run linters tests
 - `rubocop`
